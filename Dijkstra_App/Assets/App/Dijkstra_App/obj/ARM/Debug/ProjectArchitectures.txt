@@ -1,0 +1,2 @@
+C:\Users\pakas\App\Dijkstra_App\Dijkstra_App.csproj;arm
+C:\Users\pakas\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm

@@ -1,0 +1,1 @@
+C:\Source\Dijkstra_App\UWP\Dijkstra_App\Dijkstra_App.csproj;x86
